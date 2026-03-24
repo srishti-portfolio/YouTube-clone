@@ -14,3 +14,6 @@ This project is a front-end clone of YouTube built using HTML and CSS while lear
 
 ## Note
 This project was built by me while learning basic frontend development. While I followed a tutorial in making this project, apart from the tutoria, I have added some more features like dark-mode and hover in my project. 
+
+## Link
+Link to the project: https://srishti-portfolio.github.io/YouTube-clone/
